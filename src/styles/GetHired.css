@@ -1,0 +1,53 @@
+.left-side{
+    width: 50%;
+    height: 100vh;
+    overflow-y: scroll;
+}
+.right-side{
+    width: 50%;
+    height: 100vh;
+    overflow-y: scroll;
+}
+.jobs-body{
+    display: flex;
+    flex-direction: row;
+    margin: 0 12% 0 12%;
+    
+
+}
+.job-profile{
+    border-radius: 7px 0 0 0;
+    color: white;
+    display: grid;
+   
+}
+.job1{
+    border: solid #ededed;
+    cursor: pointer;
+    background-color:white;
+    height: 25%;
+    width: 100%;
+
+}
+.job1.active{
+    background-color: #e2f0fe;
+    
+}
+.right-side{
+    overflow-y: auto;
+padding: 0 1.2rem;
+
+}
+.style{
+    display: flex;
+    flex-direction: row;
+    }
+.style2{
+    padding-left: 1rem;
+    }
+
+.apply{
+    position: absolute;
+  top: 50%;
+  left: 53%;
+}
