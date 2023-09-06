@@ -1,0 +1,193 @@
+body, input, textarea, select{
+    font-family: 'Open Sans',Helvetica,Arial,Lucida,sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cormorant Garamond',Georgia,"Times New Roman",serif;
+  }
+
+.page1{
+    position: relative; 
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    background-image: linear-gradient(180deg,rgba(39,66,81,0.71) 0%,rgba(0,0,0,0.94) 100%),url(https://tattersallrecruiting.com/wp-content/uploads/2020/09/Woman-interviewing-older-man.jpg) !important;
+    position: relative;
+background-size: cover;
+background-position: 50%;
+background-repeat: no-repeat;
+flex-direction: column;
+
+    /* align-items: center;
+    justify-content: center; */
+    /* background-color: green; */
+}
+
+
+.home-text{
+    width: 60%;
+    height: 50%;
+    /* background-color: green; */
+    margin-top: 150px;
+    margin-left: 100px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.heading{
+        /* color: white; */
+        position: relative;
+        font-size: 4rem; 
+}
+.heading-intro{
+        /* color: white; */
+        position: relative;
+        font-size: 1.5rem; 
+        padding-top: 30px;
+}
+.looking-job{
+    font-size: 20px;
+    position: relative;
+    margin-top: 30px;
+    background-color: #ff9900;
+    color: black;
+    text-decoration: none;
+    width: 40%;
+    text-align: center;
+    border-radius: 15px;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.looking-job:hover{
+    background-color: #e8be7f;
+}
+
+.looking-talent{
+    font-size: 20px;
+    position: relative;
+    margin-top: 30px;
+    background-color: #284c6a;
+    color: white;
+    text-decoration: none;
+    width: 40%;
+    text-align: center;
+    border-radius: 15px;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.looking-talent:hover{
+    background-color: #7bafda;
+}
+.page2-left{
+    width: 50%;
+}
+.page2-right{
+    width: 30%;
+}
+.page2{
+    width: 100vw;
+    height: 80vh;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg2 img{
+    width: 80%;
+    
+}
+
+.page2-right h3{
+    font-size: 1.7rem;
+    margin-bottom: 20px;
+}
+.contact-recuriter{
+    font-size: 20px;
+    position: relative;
+    margin-top: 30px;
+    background-color: #ff9900;
+    color: black;
+    text-decoration: none;
+    width: 70%;
+    text-align: center;
+    border-radius: 15px;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-recuriter svg{
+    display: none;
+}
+
+.contact-recuriter:hover svg{
+    display: block;
+    
+}
+
+.contact-recuriter:hover{
+    background-color: #5d7080;
+}
+
+.page3{
+    width: 100vw;
+    height: 80vh;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page3-left{
+    width: 40%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: self-end
+    /* background-color: red; */
+}
+.page3-right{
+    width: 40%;
+    /* background-color: green; */
+}.page3-right img{
+    width: 100%;
+    margin-left: 50px;
+}
+
+.button-emp:hover{
+    background-color: #5d7080;
+}
+.button-emp svg{
+    display: none;
+}
+
+.button-emp:hover svg{
+    display: block;
+    
+}
+
+.button-emp{
+    
+    font-size: 20px;
+    position: relative;
+    margin-top: 30px;
+    background-color: #ff9900;
+    color: black;
+    text-decoration: none;
+    width: 40%;
+    text-align: center;
+    border-radius: 15px;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

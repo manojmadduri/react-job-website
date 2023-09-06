@@ -17,7 +17,7 @@ function NavBar() {
             <Link id='get-hired' className='Nav-link' to='/get-hired'>GET HIRED</Link>
             <Link id='find-employees' className='Nav-link' to='/find-employees'>FIND EMPLOYEES</Link>
             <Link id='testimonials' className='Nav-link' to='/testimonials'>TESTIMONIALS</Link>
-            <Link id='job-opinings' className='Nav-link' to='/job-opinings'>JOB OPENINGS</Link>
+            <Link id='job-opinings' className='Nav-link' to='/job-openings'>JOB OPENINGS</Link>
             <Link id='contact-us' className='Nav-link' to='/contact-us'>CONTACT US</Link>
         </div>
     </div>

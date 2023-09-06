@@ -1,0 +1,149 @@
+li, ul, .all-openings p, span{
+    line-height: 1.5rem;
+  font-size: 1rem;
+  font-family: "Amazon Ember", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+
+.all-job-container{
+    width: 100%;
+    height: 200px;
+    background-color: #e8e8e8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.all-jobs-top{
+    width: 80%;
+    height: 100%;
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.top-right button{
+    text-decoration: none;
+    background-color: #ff9900;
+    padding: 10px 60px 10px 60px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.top-left h4{
+     margin-top: 10px;
+}
+.bottom-desc{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+.main-desc{
+    width: 75%;
+    /* background-color: black; */
+    display: flex;
+    justify-content: space-between;
+}
+.bottom-desc-left{
+    width: 70%;
+    /* background-color: green; */
+}
+.bottom-desc-right{
+    width: 30%;
+    /* background-color: pink; */
+    margin: 20px;
+}
+
+.bottom-desc {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.bottom-desc-left h2{
+    margin: 25px 0px 25px 0px
+}
+
+li{
+    list-style: none;
+}
+.location-details, .pay-rate-details, .work-type-details{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 10px 0px 10px 0px;
+}
+.location-details svg, .pay-rate-details svg, .work-type-details svg{
+    color: #ff9900;
+
+}
+.location-details p, .pay-rate-details p, .work-type-details p{
+    font-size: 1.4rem;
+
+}
+.bottom-desc-right h2{
+    margin-bottom: 10px;
+}
+
+/* Pop-up styles */
+.popup-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+  }
+  
+  .popup {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  .popup h3 {
+    font-size: 20px;
+  }
+  
+  .popup form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .popup label {
+    margin: 10px 0;
+  }
+  
+  .popup input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .popup button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .popup button:hover {
+    background-color: #0056b3;
+  }
+  
