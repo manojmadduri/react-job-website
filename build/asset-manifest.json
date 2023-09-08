@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12ae325d.css",
+    "main.js": "/static/js/main.869fd187.js",
+    "static/js/787.bbe01249.chunk.js": "/static/js/787.bbe01249.chunk.js",
+    "static/media/page-3-5.jpg": "/static/media/page-3-5.8eba742a6e2debfd2337.jpg",
+    "static/media/page-3-2.jpg": "/static/media/page-3-2.23068da60c88e7ef5e5e.jpg",
+    "static/media/page-3-1.jpg": "/static/media/page-3-1.41e6d629b5c87e1a872b.jpg",
+    "static/media/page-3-3.jpg": "/static/media/page-3-3.6c4d91ad0983edbf6c19.jpg",
+    "static/media/page-3-4.jpg": "/static/media/page-3-4.5c8bdae77c285ca3b887.jpg",
+    "static/media/job-search.jpeg": "/static/media/job-search.d8aa4aba54d0940c05d3.jpeg",
+    "static/media/pexels-photo-5816293-1920w.jpg": "/static/media/pexels-photo-5816293-1920w.80bfc57579b4c817b6c3.jpg",
+    "static/media/pexels-photo-5989930.jpg": "/static/media/pexels-photo-5989930.828c92d9f81cb76d000c.jpg",
+    "static/media/b_tov_QuirkyInterviewQuestions_170731.jpg": "/static/media/b_tov_QuirkyInterviewQuestions_170731.77ae9360d3b9c7aff3e6.jpg",
+    "static/media/pexels-photo-1595391-1920w.jpg": "/static/media/pexels-photo-1595391-1920w.696541b0b8198783ad71.jpg",
+    "static/media/Woman-interviewing-older-man.jpg": "/static/media/Woman-interviewing-older-man.cc6ed15ffa519234b0b8.jpg",
+    "static/media/Hiring-now-words.jpg": "/static/media/Hiring-now-words.a95220b82722b1901cc0.jpg",
+    "static/media/java.png": "/static/media/java.2649da43a705d377d547.png",
+    "static/media/pexels-photo-7681840-1920w.jpg": "/static/media/pexels-photo-7681840-1920w.c58ac4db5bd93ee7112a.jpg",
+    "index.html": "/index.html",
+    "main.12ae325d.css.map": "/static/css/main.12ae325d.css.map",
+    "main.869fd187.js.map": "/static/js/main.869fd187.js.map",
+    "787.bbe01249.chunk.js.map": "/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12ae325d.css",
+    "static/js/main.869fd187.js"
+  ]
+}
